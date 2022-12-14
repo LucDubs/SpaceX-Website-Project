@@ -54,7 +54,8 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     &:hover{
-      color: rgb(17, 12, 59);
+      color: rgb(12, 12, 12);
+      transition: 0.5s;
     }
   }
 }

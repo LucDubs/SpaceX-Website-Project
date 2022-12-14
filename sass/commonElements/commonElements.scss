@@ -1,10 +1,10 @@
 .header{
-  font-size: 12px;
+  font-size: 13px;
   font-weight: bold;
 
   #navItem{
     text-decoration: none;
-    color: rgb(231, 3, 3);
+    color: rgb(255, 255, 255);
     
     &:hover {
       color: $link-hover;
